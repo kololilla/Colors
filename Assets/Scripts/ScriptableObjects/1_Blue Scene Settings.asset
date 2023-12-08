@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60554189bb8f015449bdbb481812bfc4, type: 3}
+  m_Name: 1_Blue Scene Settings
+  m_EditorClassIdentifier: 
+  <LevelIdx>k__BackingField: 1
+  <P_Health_MaxValue>k__BackingField: 20
+  <P_JumpForce>k__BackingField: 7
+  <P_RunSpeed>k__BackingField: 1
+  <P_ClimbSpeed>k__BackingField: 1
+  <P_evolution>k__BackingField: 0
+  <P_speedGain>k__BackingField: 1.2
+  <P_jumpGain>k__BackingField: 7.5
+  <FallDamage>k__BackingField: 0
+  <FallDamageLimit>k__BackingField: 0
+  <Gravity>k__BackingField: 0.7
+  <Bcg_sprite>k__BackingField: {fileID: 21300000, guid: 42806dde7d781824ca436749385dcdd3, type: 3}
+  <BgMusic>k__BackingField: {fileID: 8300000, guid: 4871bed1660e5f54e9d4c884e323f6cd, type: 3}
+  <P_JumpSound>k__BackingField: {fileID: 8300000, guid: 5ea0893473a77fd42970c03150c84d1f, type: 3}
